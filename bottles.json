@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "AquaFresh",
+    "brand": "Aquafina",
+    "capacity": "1L",
+    "color": "Blue",
+    "material": "Plastic",
+    "price": 30,
+    "inStock": true,
+    "rating": 4.5,
+    "img": "https://i.ibb.co/4j6rFNT/aquafina.jpg",
+    "reviews": [
+      { "user": "Rumi", "comment": "Very refreshing and light!", "stars": 5 },
+      { "user": "Nusrat", "comment": "Good but a bit costly", "stars": 4 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "PureLife",
+    "brand": "Nestle",
+    "capacity": "500ml",
+    "color": "Transparent",
+    "material": "Plastic",
+    "price": 20,
+    "inStock": true,
+    "rating": 4.2,
+    "img": "https://i.ibb.co/7Vf2rFt/nestle-purelife.jpg",
+    "reviews": [
+      { "user": "Mahady", "comment": "Affordable and safe", "stars": 4 },
+      { "user": "Sami", "comment": "Best for travel", "stars": 5 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "MountainSpring",
+    "brand": "Kinley",
+    "capacity": "2L",
+    "color": "White",
+    "material": "Plastic",
+    "price": 50,
+    "inStock": false,
+    "rating": 4.0,
+    "img": "https://i.ibb.co/0M1f8bL/kinley.jpg",
+    "reviews": [
+      { "user": "Ammu", "comment": "Good taste but not available always", "stars": 4 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "CrystalBottle",
+    "brand": "PremiumGlass",
+    "capacity": "1.5L",
+    "color": "Transparent",
+    "material": "Glass",
+    "price": 120,
+    "inStock": true,
+    "rating": 4.8,
+    "img": "https://i.ibb.co/NxThkYt/glass-bottle.jpg",
+    "reviews": [
+      { "user": "Nusrat", "comment": "Looks very premium", "stars": 5 },
+      { "user": "Rumi", "comment": "Heavy but stylish", "stars": 4 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "EcoFriendly",
+    "brand": "GreenWorld",
+    "capacity": "750ml",
+    "color": "Green",
+    "material": "Metal",
+    "price": 90,
+    "inStock": true,
+    "rating": 4.6,
+    "img": "https://i.ibb.co/7jK8rYx/metal-bottle.jpg",
+    "reviews": [
+      { "user": "Sami", "comment": "Reusable and eco-friendly", "stars": 5 },
+      { "user": "Mahady", "comment": "Keeps water cold longer", "stars": 4 }
+    ]
+  }
+]
